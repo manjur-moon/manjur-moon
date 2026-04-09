@@ -49,56 +49,26 @@ I am a passionate frontend developer who loves building modern, responsive, and 
 ## 🌐 Connect with Me
 
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px; margin-top: 20px;">
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/md-manjurul-islam-616701295" target="_blank" rel="noopener noreferrer"
-     style="display: flex; align-items: center; justify-content: center; width: 48px; height: 48px; border-radius: 50%; background-color: #0A66C2; transition: transform 0.2s, box-shadow 0.2s;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="24" style="filter: invert(1);">
+<div style="text-align: center; display: flex; justify-content: center; gap: 10px; margin-top: 10px;">
+  <a href="https://www.linkedin.com/in/md-manjurul-islam-616701295" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-
-  <!-- Facebook -->
-  <a href="https://facebook.com/manjurul.islammoon" target="_blank" rel="noopener noreferrer"
-     style="display: flex; align-items: center; justify-content: center; width: 48px; height: 48px; border-radius: 50%; background-color: #1877F2; transition: transform 0.2s, box-shadow 0.2s;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/facebook.svg" alt="Facebook" width="24" style="filter: invert(1);">
+  <a href="https://facebook.com/manjurul.islammoon" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook">
   </a>
-
-  <!-- Instagram -->
-  <a href="https://instagram.com/kakaashi_haataake" target="_blank" rel="noopener noreferrer"
-     style="display: flex; align-items: center; justify-content: center; width: 48px; height: 48px; border-radius: 50%; 
-            background: linear-gradient(45deg,#f09433,#e6683c,#dc2743,#cc2366,#bc1888); transition: transform 0.2s, box-shadow 0.2s;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" alt="Instagram" width="24" style="filter: invert(1);">
+  <a href="https://instagram.com/kakaashi_haataake" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram">
   </a>
 </div>
 
-<style>
-  div a:hover {
-    transform: scale(1.2); /* Slightly enlarge on hover */
-    box-shadow: 0 4px 8px rgba(0,0,0,0.3); /* Subtle shadow */
-  }
-</style>
-
-
-
-
-
-
-
-  
-
- 
-
-  
-
-<div style="text-align: center; display: flex; justify-content: center; gap: 10px; margin-top: 30px;">
-  <a href="https://github.com/manjur-moon" target="_blank" rel="noopener noreferrer">
+<div style="text-align: center; display: flex; justify-content: center; gap: 10px; margin-top: 10px;">
+  <a href="https://github.com/YOUmanjur-moon" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="https://your-portfolio.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" alt="Portfolio">
   </a>
 </div>
-
-
 
 
 ---
@@ -109,7 +79,7 @@ I am a passionate frontend developer who loves building modern, responsive, and 
 
 <div style="text-align: center; display: flex; flex-direction: column; gap: 15px; margin-top: 15px; align-items: center;">
   
-  <!-- Total GitHub Stats -->
+ 
   
 
   <!-- Streak Stats -->
